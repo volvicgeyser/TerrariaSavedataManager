@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerrariaSavedataManager", "TerrariaSavedataManager\TerrariaSavedataManager.csproj", "{2A564561-25BE-4441-8582-B7805D1A1EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A564561-25BE-4441-8582-B7805D1A1EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A564561-25BE-4441-8582-B7805D1A1EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A564561-25BE-4441-8582-B7805D1A1EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A564561-25BE-4441-8582-B7805D1A1EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76AEE0D1-4441-4485-BC63-D2C8A637C84C}
+	EndGlobalSection
+EndGlobal
