@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TerrariaSavedataManager
 {
-    public partial class Form1 : Form
+    public partial class Form_Settings : Form
     {
-        public Form1()
+        public Form_Settings()
         {
             InitializeComponent();
         }
